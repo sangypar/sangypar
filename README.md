@@ -31,8 +31,11 @@
 
 ## ⚒️ Tech Stack
 
-<h4 align='center'>✅ Frontend Skills</h4>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333" alt="JavaScript Badge"/>&nbsp;
-  
+<h3 align='center'>✅ Frontend Skills</h3>
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+
+
 </div>
