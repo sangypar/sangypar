@@ -32,10 +32,43 @@
 ## ⚒️ Tech Stack
 
 <h3 align='center'>✅ Frontend Skills</h3>
-
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/zustand-433E38?style=for-the-badge&logo=react&logoColor=white">&nbsp;
 
+<h3 align='center'>✅ Used Language & Used Tool</h3>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>&nbsp;
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="Java Badge"/>&nbsp;
+<img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c&logoColor=white" alt="Java Badge"/>&nbsp;
+<img src="https://img.shields.io/badge/abap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=for-the-badge&logo=vsc&logoColor=white" alt="Java Badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Java Badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Arena-CD163F?style=for-the-badge&logo=rockwellautomation&logoColor=white" alt="Java Badge"/>&nbsp;
+<img src="https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp;
+
+<h3 align='center'>✅ Database & DevOps</h3>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;
+
+<h3 align='center'>✅ Communication Tools & Design Tools</h3>
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
 
 
 </div>
