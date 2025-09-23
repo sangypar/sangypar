@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=280&section=header&text=PSY%20Profile&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=140&section=header&text=PSY%20Profile&fontSize=80)
 
 <h2 align="center">
   🍕 밝은 열정과 성장을 담아내는 프론트엔드 개발자 <span style="color:#f39c12;">박상용</span>입니다.
