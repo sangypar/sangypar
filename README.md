@@ -86,7 +86,7 @@
 <br>
 
 <div align="center">
-
+<!--
 ## 🔍 algorithm
 
 <a href="https://solved.ac/profile/psyok7">
@@ -101,7 +101,7 @@
 </div>
 
 <br>
-
+-->
 <div align="center">
 
 ## 😺 GitHub 
